@@ -11,3 +11,4 @@ For the code for the analysis, go to the `src` directory.
 I organized the code using [ProjectTemplate](http://projecttemplate.net/), an R package that provides a systematic template for organizing code. ProjectTemplate also allows for easy loading of the project.
 
 Have fun!!
+NOTE: The project uses various concepts of R programming and developing R packages.
